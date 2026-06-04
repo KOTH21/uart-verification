@@ -275,7 +275,7 @@ to inspect UART waveforms.
 
 EDA Playground:
 
-PASTE_YOUR_EDA_PLAYGROUND_LINK_HERE
+(https://www.edaplayground.com/x/Fw6a)
 
 Recruiters and reviewers can run the project directly in a browser without installing any tools.
 
